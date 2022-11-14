@@ -172,7 +172,7 @@ kubectl create -f https://raw.githubusercontent.com/kyverno/kyverno/main/config/
 You can also pull from a release branch to install the stable releases including release candidates.
 
 ```sh
-kubectl create -f https://raw.githubusercontent.com/kyverno/kyverno/release-1.7/config/release/install.yaml
+kubectl create -f https://raw.githubusercontent.com/kyverno/kyverno/release-1.8/config/install.yaml
 ```
 
 ## Security vs Operability
